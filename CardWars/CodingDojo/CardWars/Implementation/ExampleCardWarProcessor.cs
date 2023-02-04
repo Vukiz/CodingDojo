@@ -14,4 +14,8 @@ public class ExampleCardWarProcessor : ICardWarProcessor
 		
 		return GameResultType.Tie;
 	}
+
+	public void SetOrderType(bool orderType)
+	{
+	}
 }
